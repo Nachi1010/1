@@ -7,13 +7,9 @@ import { FloatingRegistration } from "@/components/sections/FloatingRegistration
 import { FAQ } from "@/components/sections/FAQ";
 import { PartnerLogos } from "@/components/sections/PartnerLogos";
 import { KeyAdvantages } from "@/components/sections/KeyAdvantages";
-import { CourseDetails } from "@/components/sections/CourseDetails";
 import { Statistics } from "@/components/sections/Statistics";
-import { AboutUs } from "@/components/sections/AboutUs";
 import { CTA } from "@/components/sections/CTA";
 import { SideMenu } from "@/components/layout/SideMenu";
-import { Testimonials } from "@/components/sections/Testimonials";
-import { QuestionsAndCTA } from "@/components/sections/QuestionsAndCTA";
 import { TechnicalDetails } from "@/components/sections/TechnicalDetails";
 import { useState } from "react";
 
