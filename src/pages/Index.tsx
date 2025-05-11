@@ -23,17 +23,13 @@ const Index = () => {
       <main className="pt-16">
         <Hero />
         <Features />
-        <Testimonials />
         <Article />
         <KeyAdvantages />
         <Statistics />
         <Registration />
         <PartnerLogos />
-        <CourseDetails />
         <FAQ />
         <TechnicalDetails />
-        <AboutUs />
-        <QuestionsAndCTA />
         <FloatingRegistration />
       </main>
       <CTA />
